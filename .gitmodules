@@ -1,0 +1,12 @@
+[submodule "libs/openssl"]
+	path = libs/openssl
+	url = https://github.com/quictls/openssl
+[submodule "libs/wolfssl"]
+	path = libs/wolfssl
+	url = https://github.com/wolfssl/wolfssl
+[submodule "libs/nghttp3"]
+	path = libs/nghttp3
+	url = https://github.com/ngtcp2/nghttp3
+[submodule "libs/ngtcp2"]
+	path = libs/ngtcp2
+	url = https://github.com/ngtcp2/ngtcp2
